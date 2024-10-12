@@ -6,25 +6,31 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using dataModel;
+using serverAPI.DTO;
 
 namespace serverAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CitiesController : ControllerBase
+    public class CitiesController(TheFirstDatabaseContext context) : ControllerBase
     {
-        private readonly TheFirstDatabaseContext _context;
-
-        public CitiesController(TheFirstDatabaseContext context)
-        {
-            _context = context;
-        }
+        private readonly TheFirstDatabaseContext _context = context;
 
         // GET: api/Cities
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<City>>> GetCities()
+        public async Task<ActionResult<IList<CityDTO>>> GetCities()
         {
-            return await _context.Cities.ToListAsync();
+            IQueryable<CityDTO> x = _context.Cities.Select(c => new CityDTO
+            {
+                Id = c.Id,
+                Name = c.Name,
+                Latitude = c.Latitude,
+                Longitude = c.Longitude,
+                Population = c.Population,
+                CountryName = c.Country.Name
+            }).Take(10);
+
+            return await x.ToListAsync();
         }
 
         // GET: api/Cities/5
