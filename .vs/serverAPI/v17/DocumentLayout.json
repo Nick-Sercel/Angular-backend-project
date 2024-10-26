@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\datamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\datamodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\thefirstdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\thefirstdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\data\\worldcitiescsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\data\\worldcities.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\thefirstdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\thefirstdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\migrations\\20241004235917_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\migrations\\20241004235917_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B43EFE12-655A-4BBF-ABE8-47BA9851C52C}|dataModel\\dataModel.csproj|solutionrelative:datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|c:\\users\\ns271787\\source\\repos\\serverapi\\serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB8D46C7-92D5-48BA-8F77-D36ED2B484FB}|serverAPI\\serverAPI.csproj|solutionrelative:serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,12 +90,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "serverAPI",
+              "DocumentIndex": 15,
+              "Title": "serverAPI.csproj",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\serverAPI.csproj",
               "RelativeDocumentMoniker": "serverAPI\\serverAPI.csproj",
               "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\serverAPI.csproj",
@@ -88,33 +108,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "serverAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "serverAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:21:45.691Z",
+              "DocumentIndex": 1,
+              "Title": "dataModel.csproj",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\dataModel.csproj",
+              "RelativeDocumentMoniker": "dataModel\\dataModel.csproj",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\dataModel.csproj",
+              "RelativeToolTip": "dataModel\\dataModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T23:28:09.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CountryPopulation.cs",
+              "RelativeDocumentMoniker": "serverAPI\\DTO\\CountryPopulation.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CountryPopulation.cs",
+              "RelativeToolTip": "serverAPI\\DTO\\CountryPopulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:12:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\appsettings.json",
+              "RelativeDocumentMoniker": "dataModel\\appsettings.json",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\appsettings.json",
+              "RelativeToolTip": "dataModel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T22:28:14.823Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "serverAPI\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "serverAPI\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:21:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheFirstDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\TheFirstDatabaseContext.cs",
+              "RelativeDocumentMoniker": "dataModel\\TheFirstDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\TheFirstDatabaseContext.cs",
+              "RelativeToolTip": "dataModel\\TheFirstDatabaseContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:14:53.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CityDTO.cs",
+              "RelativeDocumentMoniker": "serverAPI\\DTO\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CityDTO.cs",
+              "RelativeToolTip": "serverAPI\\DTO\\CityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:50:04.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SeedController.cs",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\SeedController.cs",
               "RelativeDocumentMoniker": "serverAPI\\Controllers\\SeedController.cs",
               "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\SeedController.cs",
               "RelativeToolTip": "serverAPI\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAcwE0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:11:17.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T00:11:17.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "worldCitiesCSV.cs",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Data\\worldCitiesCSV.cs",
               "RelativeDocumentMoniker": "serverAPI\\Data\\worldCitiesCSV.cs",
@@ -122,38 +202,11 @@
               "RelativeToolTip": "serverAPI\\Data\\worldCitiesCSV.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:08:04.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T00:08:04.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "worldcities.csv",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Data\\worldcities.csv",
-              "RelativeDocumentMoniker": "serverAPI\\Data\\worldcities.csv",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Data\\worldcities.csv",
-              "RelativeToolTip": "serverAPI\\Data\\worldcities.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-10-12T00:05:52.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityDTO.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CityDTO.cs",
-              "RelativeDocumentMoniker": "serverAPI\\DTO\\CityDTO.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\DTO\\CityDTO.cs",
-              "RelativeToolTip": "serverAPI\\DTO\\CityDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T23:50:04.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\City.cs",
               "RelativeDocumentMoniker": "dataModel\\City.cs",
@@ -161,51 +214,11 @@
               "RelativeToolTip": "dataModel\\City.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:32:32.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T00:32:32.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TheFirstDatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\TheFirstDatabaseContext.cs",
-              "RelativeDocumentMoniker": "dataModel\\TheFirstDatabaseContext.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\TheFirstDatabaseContext.cs",
-              "RelativeToolTip": "dataModel\\TheFirstDatabaseContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:14:53.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Program.cs",
-              "RelativeDocumentMoniker": "serverAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Program.cs",
-              "RelativeToolTip": "serverAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:43:25.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "serverAPI\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "serverAPI\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:03:21.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Country.cs",
               "RelativeDocumentMoniker": "dataModel\\Country.cs",
@@ -213,51 +226,35 @@
               "RelativeToolTip": "dataModel\\Country.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:28:21.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T00:28:21.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "serverAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\appsettings.Development.json",
-              "RelativeToolTip": "serverAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "dataModel\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\appsettings.Development.json",
+              "RelativeToolTip": "dataModel\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T00:13:09.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T22:29:11.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Program.cs",
+              "RelativeDocumentMoniker": "serverAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Program.cs",
+              "RelativeToolTip": "serverAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:43:25.688Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20241004235917_initial.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\20241004235917_initial.cs",
-              "RelativeDocumentMoniker": "dataModel\\Migrations\\20241004235917_initial.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\20241004235917_initial.cs",
-              "RelativeToolTip": "dataModel\\Migrations\\20241004235917_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:16:32.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TheFirstDatabaseContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
-              "RelativeToolTip": "dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:25:49.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\appsettings.json",
               "RelativeDocumentMoniker": "serverAPI\\appsettings.json",
@@ -265,8 +262,79 @@
               "RelativeToolTip": "serverAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T00:13:08.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T00:13:08.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "worldcities.csv",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Data\\worldcities.csv",
+              "RelativeDocumentMoniker": "serverAPI\\Data\\worldcities.csv",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Data\\worldcities.csv",
+              "RelativeToolTip": "serverAPI\\Data\\worldcities.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-12T00:05:52.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "serverAPI\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "serverAPI\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:03:21.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "serverAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "serverAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:21:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "serverAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\serverAPI\\appsettings.Development.json",
+              "RelativeToolTip": "serverAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T00:13:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241004235917_initial.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\20241004235917_initial.cs",
+              "RelativeDocumentMoniker": "dataModel\\Migrations\\20241004235917_initial.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\20241004235917_initial.cs",
+              "RelativeToolTip": "dataModel\\Migrations\\20241004235917_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:16:32.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheFirstDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ns271787\\source\\repos\\serverAPI\\dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "dataModel\\Migrations\\TheFirstDatabaseContextModelSnapshot.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:25:49.127Z"
             }
           ]
         }
